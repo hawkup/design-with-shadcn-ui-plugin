@@ -62,7 +62,7 @@ export function App({ target }: AppProps) {
       ) : (
         <Banner icon={<IconInfo32 />}>
           Apply to variables and affect all nodes. Only works with `Design with
-          shadcn/ui` file
+          shadcn/ui` file version {">="} 0.0.9
         </Banner>
       )}
 

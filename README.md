@@ -1,6 +1,6 @@
 # Design with shadcn/ui Plugin
 
-![alt text](/assets/cover.png "Design with shadcn/ui Plugin cover")
+!["Design with shadcn/ui Plugin cover"](https://github.com/hawkup/design-with-shadcn-ui-plugin/assets/2748846/bf0dced3-5fe8-48c6-85de-a06e2fd1d4b7)
 
 Plugin for changing the theme of ["Design with shadcn/ui"](https://www.figma.com/community/file/1256349428272495041)
 
